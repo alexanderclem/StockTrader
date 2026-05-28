@@ -1,7 +1,6 @@
 # Stock Monitor & Trading Simulator
 
-Bash project for monitoring stock prices, backtesting a momentum strategy,
-and running unattended on a Debian VM under tmux.
+Bash project for monitoring stock prices and testing stock-trading strategy.
 
 ## Layout
 
